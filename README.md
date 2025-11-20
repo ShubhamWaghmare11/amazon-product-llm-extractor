@@ -2,9 +2,7 @@
 
 This tool extracts structured product information (title, price, rating, bullets, specs, description, etc.) directly from any Amazon product URL. It cleans messy URLs, downloads the HTML, parses product sections using BeautifulSoup, and uses LangChain + OpenAI to generate a validated JSON output following a strict Pydantic schema.
 
-====================
 ## SETUP
-====================
 
 1. Create virtual environment:
 python -m venv venv
@@ -17,9 +15,9 @@ pip install -r requirements.txt
 3. Add your OpenAI API key to .env:
 OPENAI_API_KEY=sk-xxxxxxxxxxxx
 
-====================
+
 ## USAGE
-====================
+
 
 Run extraction with any Amazon URL:
 python main.py "https://www.amazon.in/dp/B0FQ26LPWN"
@@ -30,8 +28,6 @@ python main.py "https://www.amazon.in/Kargeens-Brown-Baggy-Loose-Cargo/dp/B0FQ26
 Output is saved to:
 product.json
 
-====================
 ## OUTPUT
-====================
 
 The script produces a validated JSON file containing the extracted product metadata.
