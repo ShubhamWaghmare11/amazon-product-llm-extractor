@@ -1,0 +1,30 @@
+{
+  "title": "Sony E Mount FE 50mm F1.8 Full-Frame Lens (SEL50F18F) | Standard Prime | for Soft Bokeh",
+  "asin": "",
+  "brand": "Sony",
+  "price": "₹19,130.00",
+  "rating": "4.4 out of 5 stars",
+  "review_count": "8,155",
+  "description": "A simple, bright, and lightweight normal-length prime, the FE 50mm f/1.8 from Sony is a versatile lens designed for full-frame E-mount mirrorless cameras. Blending a sleek stature with a versatile focal length, this 50mm prime excels in a variety of shooting situations and the f/1.8 maximum aperture helps straddle an ideal balance between brightness and a compact form factor.",
+  "bullets": [
+    "Large F1.8 maximum aperture enables beautiful defocusing effects, 7-blade circular aperture creates beautiful defocused bokeh",
+    "Compact, lightweight design ideal for full-frame E-mount cameras, Aspherical element controls spherical aberration and coma",
+    "Double-gauss configuration suppresses field curvature & distortion, Metal mount adds solid durability as well as a sophisticated feel, Fast DC motor focus actuator system drives all lens groups",
+    "Minimum focus distance:- 0.45 m (1.48 ft)",
+    "Filter Diameter (mm) :- 49 mm",
+    "Maximum Magnification ratio (x):- 0.14 x"
+  ],
+  "specs": {
+    "Minimum focus distance": "0.45 m (1.48 ft)",
+    "Filter Diameter": "49 mm",
+    "Maximum Magnification ratio": "0.14 x"
+  },
+  "tags": [
+    "lens",
+    "photography",
+    "Sony",
+    "E-mount",
+    "prime"
+  ],
+  "search_filters": {}
+}
