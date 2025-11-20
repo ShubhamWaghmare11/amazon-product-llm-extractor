@@ -15,3 +15,5 @@ class Product(BaseModel):
     specs: Optional[Dict[str, str]] = None
     tags: Optional[List[str]] = None
     search_filters: Optional[Dict[str, List[str]]] = None
+
+
