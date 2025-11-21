@@ -1,4 +1,3 @@
-# prompts.py
 JSON_SCHEMA = {
     "title": "",
     "asin": "",
