@@ -1,4 +1,3 @@
-# parser.py
 from bs4 import BeautifulSoup
 from typing import Tuple, Dict, List, Optional
 import re
